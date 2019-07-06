@@ -1,0 +1,33 @@
+body{
+    position: relative;
+}
+ul{
+    padding-bottom :10px;
+    padding-top: 10px;
+    font-family: 'Gabriola';
+    font-size: 30px;
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+li{
+    
+    padding-left: 50px;
+    position: fixed;
+    padding-bottom: 10px;
+}
+li :after{
+    background-color: antiquewhite;
+}
+a {
+    color:rgb(233, 73, 132);
+}
+
+h1{
+    color: rgb(132, 26, 26);
+    text-align: center;
+    font-family: 'Gabriola';
+    font-size: 70px;
+    margin-top: 200px;
+
+}
+
